@@ -124,10 +124,5 @@ CREATE TABLE NETFLIX (
 
 **Santhosh**  
 📧 santhoshvarma2004@gmail.com  
-🔗 [LinkedIn](http://linkedin.com/in/santhosh-rudraraju-7b2988314) | [GitHub](https://github.com/yourusername)
+🔗 [LinkedIn](http://linkedin.com/in/santhosh-rudraraju-7b2988314) | [GitHub](https://github.com/SanthoshRudraraju)
 
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
