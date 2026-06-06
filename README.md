@@ -1,4 +1,5 @@
 # sql-netflix-case-study
+
 # 🎬 Netflix SQL Analysis
 
 A comprehensive SQL-based analysis of the Netflix dataset using PostgreSQL. This project explores content trends, ratings, genres, actors, and more through 15 business-driven queries.
