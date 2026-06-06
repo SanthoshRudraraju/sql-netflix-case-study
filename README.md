@@ -124,7 +124,7 @@ CREATE TABLE NETFLIX (
 
 **Santhosh**  
 📧 santhoshvarma2004@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourusername)
+🔗 [LinkedIn](http://linkedin.com/in/santhosh-rudraraju-7b2988314) | [GitHub](https://github.com/yourusername)
 
 ---
 
